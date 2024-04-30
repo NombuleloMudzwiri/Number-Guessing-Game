@@ -3,7 +3,8 @@
 Welcome to the Number guessing game! It's a simple web-based game where you try to guess a random number chosen by the system. The number is between 1 and 20, and your goal is to find it. Each time you guess, the game gives you hints to help you figure it out.
 
 ## Preview
-[Add preview screenshots or GIFs here]
+[![Screenshot (47)](https://github.com/NombuleloMudzwiri/Number-Guessing-Game/assets/131011594/07d0bff6-d564-4079-9624-025ac0e94eab)
+]
 
 ## How to Play
 
